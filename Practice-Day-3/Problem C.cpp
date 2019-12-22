@@ -13,3 +13,4 @@ int main ()
     cout<<tdolls;
     return 0;
 }
+//exec autoexec
