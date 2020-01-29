@@ -1,2 +1,2 @@
 # VJUDGE.NET
-Solutions submitted on Vjudge.
+Solutions submitted on Vjudge.net
